@@ -1,5 +1,5 @@
 # Meme Truck
-### It’s an English project, we have to do a presentation on our "Food Truck" but, I thought a website was better. (I thought)
+### It’s an English project, I wanted to make a website to ours "Food Truck" Project.
 
 ### You can acces to the web site by cliking [here].
 
